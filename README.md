@@ -24,3 +24,4 @@ This is a simple .NET Web API for managing users, built using Copilot and C#.
 dotnet dev-certs https --trust
 dotnet run --launch-profile https
 
+Open https://localhost:7246/swagger in your browser.

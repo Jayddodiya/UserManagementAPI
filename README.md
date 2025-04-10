@@ -1,4 +1,4 @@
-# User Management API
+# User Management API 
 
 This is a simple .NET Web API for managing users, built using Copilot and C#.
 
